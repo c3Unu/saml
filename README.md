@@ -1,5 +1,7 @@
 # SimplerSaml
 
+From https://github.com/ragingdave/simplersaml/
+
 Welcome to the even Simpler simplesamlphp integration for Laravel 5.
 
 This library enables simple interaction between your Laravel application and using authentication from an IDP.

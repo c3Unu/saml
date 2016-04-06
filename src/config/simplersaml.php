@@ -3,7 +3,7 @@
 return [
 	// Configured SP name that this application will use
 	'sp' => 'default-sp',
-
+	'spPath' => '/var/saml',
 	// Configured IDP to authenticate against
 	'idp' => 'https://openidp.feide.no',
 
